@@ -1,0 +1,7 @@
+# Ignore all .log files
+*.log.gz
+
+# Ignore specific directories
+/logs/
+/world/
+/crash-reports/

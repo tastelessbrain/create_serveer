@@ -1,7 +1,12 @@
 # Ignore all .log files
 *.log.gz
+*.log
+*.mca
 
 # Ignore specific directories
 /logs/*
 /world/*
 /crash-reports/*
+/world/
+/world/region
+/logs/

@@ -4,3 +4,20 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
 [12:21:14] [Netty Epoll Server IO #12/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[14:37:10] [Server thread/INFO]: Reloading!
+[14:37:10] [Server thread/INFO]: Loaded 24 recipes
+[14:37:10] [Server thread/INFO]: Loaded 2467 advancements
+[14:37:10] [Server thread/INFO]: [Fabric Seasons] Successfully loaded 15 custom crop configs.
+[14:37:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[14:39:04] [Server thread/INFO]: Stopping the server
+[14:39:05] [Server thread/INFO]: Stopping server
+[14:39:05] [Server thread/INFO]: Saving players
+[14:39:05] [Server thread/INFO]: Saving worlds
+[14:39:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:40:16] [JsonConfig Shutdown Thread/INFO]: Shutting down timecontrol.json watchers

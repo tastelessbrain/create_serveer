@@ -2,6 +2,6 @@
 *.log.gz
 
 # Ignore specific directories
-/logs/
-/world/
-/crash-reports/
+/logs/*
+/world/*
+/crash-reports/*
